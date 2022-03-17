@@ -1,0 +1,97 @@
+.rounded {
+    border-radius: 2.5rem !important;
+}
+
+.frm-ability {
+    background-color: #30a7d7;
+}
+
+.title {
+    color: #fff;
+}
+.bg_grass {
+    border-radius: 0.5rem !important;
+    background-color: #9bcc50;
+}
+
+.bg_poison {
+    border-radius: 0.5rem !important;
+    background-color: #b97fc9;
+}
+
+.bg_fire {
+    border-radius: 0.5rem !important;
+    background-color: #fd7d24;
+}
+
+.bg_normal {
+    border-radius: 0.5rem !important;
+    background-color: #a4acaf;
+}
+
+.bg_water {
+    border-radius: 0.5rem !important;
+    background-color: #4592c4;
+}
+
+.bg_bug {
+    border-radius: 0.5rem !important;
+    background-color: #729f3f;
+}
+
+.bg_flying {
+    border-radius: 0.5rem !important;
+    background-color: #3dc7ef;
+}
+
+.bg_electric {
+    border-radius: 0.5rem !important;
+    background-color: #eed535;
+}
+
+.bg_ground {
+    border-radius: 0.5rem !important;
+    background: linear-gradient(180deg, #f7de3f 50%, #ab9842 50%);
+    background-color: #f7de3f;
+}
+
+.bg_fairy {
+    border-radius: 0.5rem !important;
+    background: linear-gradient(180deg, #fdb9e9 50%, #fdb9e9 50%);
+    background-color: #fdb9e9;
+}
+
+.bg_fighting {
+    border-radius: 0.5rem !important;
+    background: linear-gradient(180deg, #d56723 50%, #d56723 50%);
+    background-color: #d56723;
+    color: #fff;
+}
+
+.bg_psychic {
+    border-radius: 0.5rem !important;
+    background: linear-gradient(180deg, #f366b9 50%, #f366b9 50%);
+    background-color: #f366b9;
+    color: #fff;
+}
+
+.bg_rock {
+    border-radius: 0.5rem !important;
+    background: linear-gradient(180deg, #a38c21 50%, #a38c21 50%);
+    background-color: #a38c21;
+    color: #fff;
+}
+
+.bg_steel {
+    border-radius: 0.5rem !important;
+    background: linear-gradient(180deg, #9eb7b8 50%, #9eb7b8 50%);
+    background-color: #9eb7b8;
+    color: #212121;
+}
+
+.bg_ice {
+    border-radius: 0.5rem !important;
+    background: linear-gradient(180deg, #51c4e7 50%, #51c4e7 50%);
+    background-color: #51c4e7;
+    color: #212121;
+}
